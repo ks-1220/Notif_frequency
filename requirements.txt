@@ -1,3 +1,3 @@
-streamlit==1.19.0
-pandas==1.5.3
-scikit-learn==1.2.2
+streamlit==1.17.0          # Streamlit for the app UI and interactive features
+pandas==1.4.0              # For data handling and manipulation
+scikit-learn==1.0.2        # For machine learning, including KMeans and scaling
